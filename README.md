@@ -24,6 +24,7 @@ Nonfunctional Requirements:
 "	GUI
 "	Simplicity
 "	Time Efficient
+
 Algorithm:
 
 
