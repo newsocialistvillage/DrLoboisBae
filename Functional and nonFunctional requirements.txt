@@ -1,0 +1,17 @@
+Functional Requirements: 
+"	It shall take in a file in the format of ".txt"
+"	If it does not receive a txt file, the program would inform the user of an error and then the user has a chance to either resubmit or exit the program 
+"	it should sort latin letters alphabetically, numbers from the smallest to the largest, symbols and spaces would be prioritized last. 
+"	If the txt file has previously been sorted by the program already, then output an error message to the user.  
+"	It should output the sorted file in the name of "originalfilename" + "sorted" + ".txt" 
+"	When the software is downloaded from the web, an exclusive folder is included for storing outputted sorted files. 
+"	Maximum file size is 500 MB 
+
+
+Nonfunctional Requirements:
+
+"	GUI, drop menu for directory, cancel button for canceling the operation, exit button for exiting the program, another dropdown menu for the user to customize the order of sorting( three options: letters, numbers, spaces and symbols), or there is a defult option (letters -> numbers -> spaces and symbols)
+"	GUI should appear simplistic and user friendly. 
+"	When sorting starts, progress should be tracked and presented to the user 
+"	Optimize the algorithm to maximize time efficiency
+
